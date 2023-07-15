@@ -1,0 +1,59 @@
+@media screen and (min-width: 1200px){
+	body{
+		overflow-x: hidden;
+
+	}
+
+	.titulo{
+		font-size: 60px;
+		color:#E96061;
+	}
+
+	.foto{
+		width: 90px;
+		height: 90px;
+
+	}
+	.fondo{
+		background-color: white;
+	}
+
+	.buscador{
+		list-style: none;
+		margin-top: 5px;
+		padding-left: 150px;
+
+	}
+
+	.materias{
+		padding-right: 500px;
+		padding-left: 100px;
+	}
+	.profesores_resumido{
+		margin-left: 400px;
+		margin-bottom: 50px;
+		margin-top: 50px;
+	}
+	.carousel-control-next{
+		background-color:black;
+	}
+
+	.carousel-control-prev{
+		background-color: black;
+	}
+
+	.tarjeta{
+		padding-left: 145px;
+	}
+
+	.footer{
+		padding-left: 500px;
+		padding-top:50px;
+		font-size: 20px;
+	}
+
+
+
+
+
+}

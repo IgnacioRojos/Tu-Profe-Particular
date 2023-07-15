@@ -1,0 +1,187 @@
+@media only screen and (max-width: 768px) {
+  .titulo {
+    font-size: 22px;
+    margin-top: 12px; }
+  .texto_Presentacion {
+    padding-left: 26px;
+    font-size: 12px; }
+  .fondo {
+    background-color: white; }
+  .buscador {
+    list-style: none;
+    margin-top: 5px; }
+  .materias {
+    padding-left: 10px;
+    margin-bottom: 15px; }
+  .profesores_resumido {
+    margin-left: 17px;
+    background-color: black;
+    margin-bottom: 30px; }
+  .carousel {
+    padding-left: 29px; } }
+
+@media screen and (min-width: 1200px) {
+  body {
+    overflow-x: hidden; }
+  .titulo {
+    font-size: 60px;
+    color: #E96061; }
+  .foto {
+    width: 90px;
+    height: 90px; }
+  .fondo {
+    background-color: white; }
+  .buscador {
+    list-style: none;
+    margin-top: 5px;
+    padding-left: 150px; }
+  .materias {
+    padding-right: 500px;
+    padding-left: 100px; }
+  .profesores_resumido {
+    margin-left: 400px;
+    margin-bottom: 50px;
+    margin-top: 50px; }
+  .carousel-control-next {
+    background-color: black; }
+  .carousel-control-prev {
+    background-color: black; }
+  .tarjeta {
+    padding-left: 145px; }
+  .footer {
+    padding-left: 500px;
+    padding-top: 50px;
+    font-size: 20px; } }
+
+@media only screen and (max-width: 768px) {
+  .titulo {
+    font-size: 22px;
+    margin-top: 12px; }
+  .fondo {
+    background-color: white; }
+  .ejercicio_algebra {
+    padding-top: 20px;
+    padding-left: 22px;
+    background-color: #7af105; }
+  .ejercicios_analisis {
+    padding-top: 20px;
+    background-color: #0083ff; }
+  .linkAnalisis {
+    padding-left: 50px;
+    color: #f8f9fa; }
+  .linkAlebra {
+    padding-left: 50px;
+    color: #f8f9fa; }
+  .footer {
+    padding-top: 80px; } }
+
+@media screen and (min-width: 1200px) {
+  .titulo {
+    font-size: 60px;
+    color: #E96061; }
+  .foto {
+    width: 90px;
+    height: 90px; }
+  .fondo {
+    background-color: white; }
+  .ejercicio_algebra {
+    padding-top: 20px;
+    padding-left: 40px; }
+  .ejercicios_analisis {
+    padding-top: 20px; }
+  .footer {
+    padding-left: 500px;
+    padding-top: 550px;
+    font-size: 20px; } }
+
+@media only screen and (max-width: 768px) {
+  .titulo {
+    font-size: 22px;
+    margin-top: 12px; }
+  .fondo {
+    background-color: white; }
+  .texto {
+    font-size: 12px; }
+  .video {
+    padding-left: 10px;
+    width: 326px;
+    height: 187px; } }
+
+@media screen and (min-width: 1200px) {
+  .titulo {
+    font-size: 60px;
+    color: #E96061; }
+  .foto {
+    width: 90px;
+    height: 90px; } }
+
+@media only screen and (max-width: 768px) {
+  .titulo {
+    font-size: 22px;
+    margin-top: 12px; }
+  .profeMate {
+    padding-left: 40px;
+    color: red;
+    margin-bottom: 35px; }
+  .card {
+    width: 323px;
+    padding-left: 15px; }
+  .profeLengua {
+    padding-left: 65px;
+    color: blue;
+    margin-bottom: 35px;
+    margin-top: 40px; }
+  .spinner-border {
+    margin-left: 155px;
+    margin-top: 40px;
+    margin-bottom: 80px; }
+  .profeQuimi {
+    padding-left: 65px;
+    color: yellow;
+    padding-bottom: 35px; }
+  .profeUni {
+    padding-left: 65px;
+    color: #E96061;
+    padding-top: 50px;
+    padding-bottom: 35px; } }
+
+@media screen and (min-width: 1200px) {
+  .titulo {
+    font-size: 60px;
+    color: #E96061; }
+  .foto {
+    width: 90px;
+    height: 90px; }
+  .profeMate {
+    padding-left: 500px;
+    color: red;
+    margin-bottom: 35px;
+    text-decoration: underline black; }
+  .card {
+    width: 323px;
+    margin-left: 35px; }
+  .profeLengua {
+    padding-left: 500px;
+    color: blue;
+    margin-bottom: 35px;
+    margin-top: 80px;
+    text-decoration: underline black; }
+  .spinner-border {
+    margin-left: 600px;
+    margin-top: 120px;
+    margin-bottom: 250px; }
+  .profeQuimi {
+    padding-left: 500px;
+    color: yellow;
+    padding-bottom: 35px;
+    text-decoration: underline black; }
+  .profeUni {
+    padding-left: 500px;
+    color: #E96061;
+    padding-top: 50px;
+    padding-bottom: 35px;
+    text-decoration: underline black; }
+  .footer {
+    padding-left: 500px;
+    padding-top: 50px;
+    font-size: 20px; } }
