@@ -86,9 +86,10 @@
     background-color: white; }
   .ejercicio_algebra {
     padding-top: 20px;
-    padding-left: 40px; }
+    padding-left: 248px; }
   .ejercicios_analisis {
-    padding-top: 20px; }
+    padding-top: 20px;
+    padding-left: 233px; }
   .footer {
     padding-left: 500px;
     padding-top: 550px;
@@ -128,7 +129,7 @@
     padding-left: 15px; }
   .profeLengua {
     padding-left: 65px;
-    color: blue;
+    color: red;
     margin-bottom: 35px;
     margin-top: 40px; }
   .spinner-border {
@@ -137,7 +138,7 @@
     margin-bottom: 80px; }
   .profeQuimi {
     padding-left: 65px;
-    color: yellow;
+    color: red;
     padding-bottom: 35px; }
   .profeUni {
     padding-left: 65px;
@@ -156,30 +157,30 @@
     padding-left: 722px;
     color: red;
     margin-bottom: 35px;
-    text-decoration: underline black; }
+    }
   .card {
     width: 323px;
     margin-left: 89px; }
   .profeLengua {
     padding-left: 722px;
     padding-top: 50px;
-    color: blue;
+    color: red;
     margin-bottom: 35px;
     margin-top: 80px;
-    text-decoration: underline black; }
+     }
   .profeQuimi {
     padding-left: 722px;
     padding-top: 50px;
-    color: yellow;
+    color: red;
     padding-bottom: 35px;
-    text-decoration: underline black; }
+    }
   .profeUni {
     padding-left: 722px;
     color: #E96061;
     padding-top: 50px;
     padding-bottom: 35px;
-    text-decoration: underline black; }
+     }
   .footer {
-    padding-left: 722px;
+    padding-left: 764px;
     padding-top: 50px;
     font-size: 20px; } }
