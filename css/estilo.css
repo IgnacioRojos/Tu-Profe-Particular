@@ -39,7 +39,7 @@
     padding-right: 500px;
     padding-left: 100px; }
   .profesores_resumido {
-    margin-left: 400px;
+    margin-left: 530px;
     margin-bottom: 50px;
     margin-top: 50px; }
   .carousel-control-next {
@@ -47,7 +47,7 @@
   .carousel-control-prev {
     background-color: black; }
   .tarjeta {
-    padding-left: 145px; }
+    padding-left: 155px; }
   .footer {
     padding-left: 500px;
     padding-top: 50px;
@@ -153,35 +153,33 @@
     width: 90px;
     height: 90px; }
   .profeMate {
-    padding-left: 500px;
+    padding-left: 722px;
     color: red;
     margin-bottom: 35px;
     text-decoration: underline black; }
   .card {
     width: 323px;
-    margin-left: 35px; }
+    margin-left: 89px; }
   .profeLengua {
-    padding-left: 500px;
+    padding-left: 722px;
+    padding-top: 50px;
     color: blue;
     margin-bottom: 35px;
     margin-top: 80px;
     text-decoration: underline black; }
-  .spinner-border {
-    margin-left: 600px;
-    margin-top: 120px;
-    margin-bottom: 250px; }
   .profeQuimi {
-    padding-left: 500px;
+    padding-left: 722px;
+    padding-top: 50px;
     color: yellow;
     padding-bottom: 35px;
     text-decoration: underline black; }
   .profeUni {
-    padding-left: 500px;
+    padding-left: 722px;
     color: #E96061;
     padding-top: 50px;
     padding-bottom: 35px;
     text-decoration: underline black; }
   .footer {
-    padding-left: 500px;
+    padding-left: 722px;
     padding-top: 50px;
     font-size: 20px; } }
